@@ -89,34 +89,34 @@ function toggleTech(button) {
 // Dados do quiz
 const quizData = [
     {
-        pergunta: "O que é agricultura de precisão?",
+        pergunta: "Qual é uma prática da agricultura sustentável?",
         opcoes: [
-            "Aplicação localizada de insumos usando GPS",
-            "Plantio manual muito cuidadoso",
-            "Uso de muitos agroquímicos",
-            "Cultivo apenas em clima frio"
+            "Queimadas constantes",
+            "Rotação de culturas",
+            "Desmatamento ilegal",
+            "Poluição dos rios"
+        ],
+        resposta: 1
+    },
+    {
+        pergunta: "O que a agricultura sustentável busca preservar?",
+        opcoes: [
+            "O desperdício de água",
+            "O meio ambiente",
+            "A poluição do solo",
+            "O uso excessivo de agrotóxicos"
+        ],
+        resposta: 1
+    },
+    {
+        pergunta: "Qual recurso natural é essencial para a produção agrícola sustentável?",
+        opcoes: [
+            "Petróleo",
+            "Plástico",
+            "Água",
+            "Concreto"
         ],
         resposta: 0
-    },
-    {
-        pergunta: "Qual é o benefício principal dos drones na agricultura?",
-        opcoes: [
-            "Substituir completamente os agricultores",
-            "Monitorar culturas e detectar pragas com câmeras especiais",
-            "Aumentar o preço dos produtos",
-            "Reduzir a qualidade das colheitas"
-        ],
-        resposta: 1
-    },
-    {
-        pergunta: "Como a IA ajuda no agronegócio?",
-        opcoes: [
-            "Apenas para decoração das fazendas",
-            "Análise preditiva de dados para otimizar plantio e irrigação",
-            "Para substituir os animais da fazenda",
-            "Não tem utilidade no campo"
-        ],
-        resposta: 1
     },
     {
         pergunta: "Qual é o impacto dos sensores IoT na água?",
