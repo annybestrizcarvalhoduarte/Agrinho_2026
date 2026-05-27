@@ -6,13 +6,13 @@
 
 /* Reset e Variáveis */
 :root {
-    --primary-green: #fdd3f4;
+    --primary-green: #f884df;
     --primary-cyan: #dcf5fa;
-    --primary-black: #0A0E27;
-    --primary-gold: #00ff00;
-    --secondary-gray: #1a1f3a;
+    --primary-black: #ffffff;
+    --primary-gold: #fbff00;
+    --secondary-gray: #f3f3f3;
     --text-light: #ffffff;
-    --text-dark: #0A0E27;
+    --text-dark: #ffffff;
     --border-radius: 12px;
     --transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
 }
@@ -324,14 +324,14 @@ body {
     border-radius: 50%;
     background: var(--primary-gold);
     cursor: pointer;
-    box-shadow: 0 0 10px rgb(43, 255, 0);
+    box-shadow: 0 0 10px rgb(252, 255, 86);
     transition: var(--transition);
 }
 
 .slider::-webkit-slider-thumb:hover {
     width: 28px;
     height: 28px;
-    box-shadow: 0 0 20px rgba(43, 255, 0);
+    box-shadow: 0 0 20px rgba(252, 255, 86);
 }
 
 .slider::-moz-range-thumb {
@@ -341,14 +341,14 @@ body {
     background: var(--primary-gold);
     cursor: pointer;
     border: none;
-    box-shadow: 0 0 10px rgba(43, 255, 0);
+    box-shadow: 0 0 10px rgba(252, 255, 86);
     transition: var(--transition);
 }
 
 .slider::-moz-range-thumb:hover {
     width: 28px;
     height: 28px;
-    box-shadow: 0 0 20px rgba(43, 255, 0);
+    box-shadow: 0 0 20px rgba(252, 255, 86);
 }
 
 .slider-value {
