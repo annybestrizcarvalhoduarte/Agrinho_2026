@@ -89,34 +89,34 @@ function toggleTech(button) {
 // Dados do quiz
 const quizData = [
     {
-        pergunta: "Qual é uma prática da agricultura sustentável?",
+        pergunta: "O que é agricultura sustentável?",
         opcoes: [
-            "Queimadas constantes",
+            "Um sistema que utiliza apenas máquinas modernas",
+            "Um modelo que busca produzir alimentos preservando o meio ambiente",
+            "Um método que evita qualquer tipo de cultivo",
+            "Uma prática exclusiva da agricultura familiar"
+        ],
+        resposta: 1
+    },
+    {
+        pergunta: "Qual prática ajuda na conservação do solo?",
+        opcoes: [
+            "Queimadas frequentes",
+            "Desmatamento de áreas nativas",
             "Rotação de culturas",
-            "Desmatamento ilegal",
-            "Poluição dos rios"
+            "Uso excessivo de agrotóxicos"
         ],
-        resposta: 1
+        resposta: 2
     },
     {
-        pergunta: "O que a agricultura sustentável busca preservar?",
+        pergunta: "Qual é uma vantagem do uso de adubos orgânicos?",
         opcoes: [
-            "O desperdício de água",
-            "O meio ambiente",
-            "A poluição do solo",
-            "O uso excessivo de agrotóxicos"
+            "Poluem mais os rios",
+            "Melhoram a fertilidade do solo",
+            "Eliminam toda a vegetação natural",
+            "Aumentam o desperdício de água"
         ],
         resposta: 1
-    },
-    {
-        pergunta: "Qual recurso natural é essencial para a produção agrícola sustentável?",
-        opcoes: [
-            "Petróleo",
-            "Plástico",
-            "Água",
-            "Concreto"
-        ],
-        resposta: 0
     },
     {
         pergunta: "O que significa manejo sustentável da água na agricultura?",
