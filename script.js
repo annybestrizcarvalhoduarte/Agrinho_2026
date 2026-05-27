@@ -119,32 +119,32 @@ const quizData = [
         resposta: 0
     },
     {
-        pergunta: "Qual é o impacto dos sensores IoT na água?",
+        pergunta: "O que significa manejo sustentável da água na agricultura?",
         opcoes: [
-            "Aumentam o consumo de água",
-            "Permitem irrigação precisa, economizando até 40% de água",
-            "Poluem a água do solo",
-            "Não têm relação com água"
+            "Usar água sem controle",
+            "Desperdiçar água nas plantações",
+            "Utilizar a água de forma consciente e eficiente",
+            "Irrigar apenas no período da chuva"
         ],
-        resposta: 1
+        resposta: 2
     },
     {
-        pergunta: "Por que a rotação de culturas é importante?",
+        pergunta: "Qual alternativa reduz os impactos ambientais da agricultura?",
         opcoes: [
-            "Para confundir os insetos",
-            "Mantém a fertilidade do solo e reduz pragas naturalmente",
-            "Apenas para decoração visual",
-            "Não tem importância"
+            "Uso excessivo de pesticidas",
+            "Plantio de monoculturas em grandes áreas",
+            "Preservação das matas ciliares",
+            "Descarte incorreto de resíduos químicos"
         ],
-        resposta: 1
+        resposta: 2
     },
     {
-        pergunta: "Qual é o objetivo do Agrinho?",
+        pergunta: "A agroecologia é importante porque?",
         opcoes: [
-            "Incentivar o ensino de tecnologia e programação com foco em sustentabilidade agrícola",
-            "Vender produtos agrícolas",
-            "Apenas para diversão",
-            "Ensinar apenas matemática"
+            "Incentiva práticas agrícolas mais equilibradas e ecológicas",
+            "Aumenta a poluição do solo",
+            "Defende o desmatamento para ampliar plantações",
+            "Proíbe qualquer produção agrícola"
         ],
         resposta: 0
     }
