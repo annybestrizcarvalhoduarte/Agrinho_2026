@@ -7,10 +7,10 @@
 /* Reset e Variáveis */
 :root {
     --primary-green: #f884df;
-    --primary-cyan: #360272;
+    --primary-cyan: #ffffff;
     --primary-black: #ffffff;
     --primary-gold: #fbff00;
-    --secondary-gray: #ffffff;
+    --secondary-gray: #000000;
     --text-light: #ffffff;
     --text-dark: #ffffff;
     --border-radius: 12px;
@@ -163,7 +163,7 @@ body {
 
 .hero-subtitle {
     font-size: 1.3rem;
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(0, 0, 0, 0.8);
     margin-bottom: 2rem;
     max-width: 500px;
 }
