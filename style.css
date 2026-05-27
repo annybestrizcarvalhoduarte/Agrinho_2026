@@ -10,9 +10,9 @@
     --primary-cyan: #000000;
     --primary-black: #ffffff;
     --primary-gold: #fbff00;
-    --secondary-gray: #000000;
-    --text-light: #000000;
-    --text-dark: #070000;
+    --secondary-gray: #ffffff;
+    --text-light: #ffffff;
+    --text-dark: #ffffff;
     --border-radius: 12px;
     --transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
 }
@@ -43,7 +43,7 @@ body {
     position: fixed;
     top: 0;
     width: 100%;
-    background: rgba(10, 14, 39, 0.95);
+    background: rgba(31, 6, 99, 0.95);
     backdrop-filter: blur(10px);
     z-index: 1000;
     border-bottom: 2px solid var(--primary-cyan);
